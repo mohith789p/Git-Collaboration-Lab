@@ -1,2 +1,2 @@
-This is a sample task for collaboration.
+This is a GIT sample task for git-collaboration and practical learning.
 
