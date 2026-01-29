@@ -1,1 +1,1 @@
-# Git-Collaboration-Lab-TeamNo-
+# Git-Collaboration-Lab
